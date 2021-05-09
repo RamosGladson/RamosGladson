@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RamosGladson
 - 👀 I’m interested in a bunch of things
-- 🌱 I’m currently learning kubernetes, python, italian and piano.
+- 🌱 I’m currently learning devops, python, maori and piano.
 - 💞️ I’m looking to collaborate on "smart learning"
-- 📫 How to reach me at my [site][site-url]
+- 📫 How to reach me at my [site][www.gladsonramos.com]
 
 <!---
 RamosGladson/RamosGladson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
